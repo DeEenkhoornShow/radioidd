@@ -33,7 +33,7 @@ client.on("ready", async () => {
 
     for (const channelId of client.voices) {
         joinChannel(channelId);
-        //wait 500ms        
+        //wait         
         await new Promise(res => setTimeout(() => res(2), 2000))
     }
 
