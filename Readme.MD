@@ -13,4 +13,9 @@ A Discord Radio Bot Coded in Discord Javacript | Using MP3 Music
 
 # Credits
 
-> If consider using this code, make sure to credit me!
+> If consider using this Bot, make sure to credit me!
+
+# Host
+
+> If you are using replit make sure to enable 'keepalive' in config.json!
+> Join to our Discord server and host it 24/7 for free!
