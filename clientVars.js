@@ -7,6 +7,7 @@ const config = require("./config.json");
 
 module.exports = async (client) => {
     client.voices = config.voices;
+    client.up = config.keepalive
 
     console.log(`ClientVars has been loaded`.brightGreen);
 }
