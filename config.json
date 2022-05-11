@@ -4,6 +4,8 @@
     "bot": "",
     "status": "Lofi radio in a VC",
     "statustype": "PLAYING",
-    "voices": ["VOICE CHANNEL ID 1 (REQUIRED)", "VOICE CHANNEL ID 2 (OPTIONAL)"]
+    "voices": ["VOICE CHANNEL ID 1 (REQUIRED)", "VOICE CHANNEL ID 2 (OPTIONAL)"],
+
+    "keepalive": true
 
 }
