@@ -13,7 +13,7 @@ A Discord Radio Bot Coded in Discord Javacript | Using MP3 Music
 
 # Credits
 
-> If consider using this Bot, make sure to credit me!
+> If consider using this code, make sure to credit me!
 
 # Host
 
