@@ -112,6 +112,10 @@ process.on('multipleResolves',error => {
     console.error(chalk.red.bold('Multiple Resolves =>', error));
 });
 
+if(client.up === true){
+    require("./keepalive")(client); 
+}
+
 //Log into the client
 client.login(config.bot);
 
