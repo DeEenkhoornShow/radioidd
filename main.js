@@ -45,7 +45,8 @@ client.on("ready", async () => {
                 guildId: channel.guild.id,
                 adapterCreator: channel.guild.voiceAdapterCreator
             });
-            const resource = createAudioResource(config.lofi, {
+            //-------------------------------------\\
+            const resource = createAudioResource(ytdl(config.stream), {
                 inlineVolume: true
             });
             resource.volume.setVolume(0.2);
