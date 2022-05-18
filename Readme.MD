@@ -1,6 +1,6 @@
 # RadioCord
 
-A Discord Radio Bot Coded in Discord Javacript | Using MP3 Music
+A Discord Radio Bot Coded in Discord Javacript | Using Youtube stream!
 
 <br/>
   
