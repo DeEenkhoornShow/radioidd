@@ -1,8 +1,8 @@
 {
-    "lofi": "http://moonmusic.stream.laut.fm/moonmusic?t302=2021-05-21_01-49-18&uuid=3e163305-81e5-4eeb-aabe-eaca610cba93",
-    "READ_BEFORE_RUNNING": "This only works with MP3 like above. ^^",
+    "stream": "http://moonmusic.stream.laut.fm/moonmusic?t302=2021-05-21_01-49-18&uuid=3e163305-81e5-4eeb-aabe-eaca610cba93",
+    "READ_BEFORE_RUNNING": "Moved to youtube (Only works via YT Live). ^^",
     "bot": "",
-    "status": "Lofi radio in a VC",
+    "status": "Radio streams 🎶",
     "statustype": "PLAYING",
     "voices": ["VOICE CHANNEL ID 1 (REQUIRED)", "VOICE CHANNEL ID 2 (OPTIONAL)"],
 
