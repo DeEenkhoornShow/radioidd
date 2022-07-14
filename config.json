@@ -1,7 +1,7 @@
 {
-    "stream": "https://www.youtube.com/watch?v=kN7eZFLFXYY",
+    "stream": "http://zwartewaterfm.shoutcaststream.com:8010/stream?type=http&nocache=880068",
     "READ_BEFORE_RUNNING": "Moved to youtube (Only works via YT Live). ^^",
-    "bot": "",
+    "bot": "OTk2Nzc0MDY5MjU1MDMyOTMx.GnLELz.PhnAAWR3h0kzsPDlXOkiq00M8j0aae5n7BARGo",
     "status": "Radio streams 🎶",
     "statustype": "PLAYING",
     "voices": ["VOICE CHANNEL ID 1 (REQUIRED)", "VOICE CHANNEL ID 2 (OPTIONAL)"],
